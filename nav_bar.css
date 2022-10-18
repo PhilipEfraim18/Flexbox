@@ -7,10 +7,16 @@ body{
   height: 60px;
   width: 100%;
   background-color: lightgrey;
+  display: flex;
+  align-items: flex-start;
 }
 
 .item {
-  margin: 10px;
+margin: 10px;
+  
+}
+.page{
+  margin: 20px;
 }
 
 #circle {
